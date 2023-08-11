@@ -1,5 +1,7 @@
 # PBKDF2JavaTester
 
+> 💡 This repository is no longer actively maintained by DB Systel GmbH. Its development will continue here: https://github.com/xformerfhs/PBKDF2JavaTester
+
 This is an example program to test various PBKDF2 functions in Java. It was created to show 1. how to use the PBKDF2 functions in Java to encode passwords and 2. to play with various parameters to see the result.
 
 The program is called with the following parameters:
